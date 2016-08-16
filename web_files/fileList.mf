@@ -1,0 +1,6 @@
+; List of directory structure and files for updating
+; 'path: root' designates we start in the root directory of the update script
+path: root
+
+; file: <filename> ----- designates a file on the server that should be updated on the client side
+file: Usage.ps1
